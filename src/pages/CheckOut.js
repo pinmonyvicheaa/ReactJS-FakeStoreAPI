@@ -31,7 +31,7 @@ const CheckoutForm = () => {
     };
 
     const initialPayPalOptions = {
-        "client-id": "ASLMGKdtntQ5vKqo-ehR6BwiW4xQWjAbhtrx5J5XBgE6vU7c4xyanrx8_pFkphseiA-rNJn3OUTduAap",
+        "client-id": "(Paste Your PayPal sandbox API ID",
         currency: "USD",
     };
 

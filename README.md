@@ -4,4 +4,4 @@ This ReactJS FakeStoreAPI project uses React to display fake products from a fre
 
 ## How to run?
 1. Go to Terminal type "npm install"
-2. in Terminal run "npm run"
+2. in Terminal run "npm start"
